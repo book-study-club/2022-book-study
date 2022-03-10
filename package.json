@@ -1,0 +1,17 @@
+{
+  "name": "2022-book-study",
+  "version": "1.0.0",
+  "description": "2022-book-study",
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "vitepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/book-study-club/2022-book-study.git"
+  },
+  "license": "Unlicense",
+  "devDependencies": {
+    "vitepress": "^0.22.3"
+  }
+}
