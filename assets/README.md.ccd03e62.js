@@ -1,0 +1,3 @@
+import{_ as a,c as n,o as s,a as e}from"./app.7b36c640.js";const m='{"title":"2022-book-study","description":"","frontmatter":{},"headers":[],"relativePath":"README.md"}',t={},o=e(`<h1 id="_2022-book-study" tabindex="-1">2022-book-study <a class="header-anchor" href="#_2022-book-study" aria-hidden="true">#</a></h1><div class="language-bash"><pre><code><span class="token function">pnpm</span> <span class="token function">install</span> <span class="token comment"># or yarn install</span>
+<span class="token function">pnpm</span> dev <span class="token comment"># or yarn dev</span>
+</code></pre></div>`,2),c=[o];function r(_,d,p,i,l,u){return s(),n("div",null,c)}var f=a(t,[["render",r]]);export{m as __pageData,f as default};

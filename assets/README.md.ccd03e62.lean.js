@@ -1,0 +1,1 @@
+import{_ as a,c as n,o as s,a as e}from"./app.7b36c640.js";const m='{"title":"2022-book-study","description":"","frontmatter":{},"headers":[],"relativePath":"README.md"}',t={},o=e("",2),c=[o];function r(_,d,p,i,l,u){return s(),n("div",null,c)}var f=a(t,[["render",r]]);export{m as __pageData,f as default};
