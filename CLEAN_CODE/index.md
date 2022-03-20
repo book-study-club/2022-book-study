@@ -9,3 +9,4 @@ home: true
 3. [함수](./Chapter_3.md)
 4. [주석](./Chapter_4.md)
 5. [형식 맞추기](./Chapter_5.md)
+6. [객체와 자료구조](./Chapter_6.md)
