@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a as l}from"./app.7b36c640.js";const s='{"title":"Home","description":"","frontmatter":{"home":true},"headers":[],"relativePath":"CLEAN_CODE/index.md"}',h={},r=l("",2),i=[r];function _(o,c,n,p,d,f){return t(),e("div",null,i)}var C=a(h,[["render",_]]);export{s as __pageData,C as default};
